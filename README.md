@@ -6,7 +6,7 @@ This project aims to predict the occurrence of heart failure through multiple cl
 
 ## Author
 
-* [Eaymond Liu](Raymond.Liu@dal.ca)
+* [Raymond Liu](Raymond.Liu@dal.ca)
 
 ## Getting Started
 
