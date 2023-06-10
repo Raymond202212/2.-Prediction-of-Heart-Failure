@@ -1,4 +1,4 @@
-# Prediction-from-Heart-Failure
+# Prediction-of-Heart-Failure
 This project aims to predict the occurrence of heart failure through multiple classificational algorithms. KNN, RF, SVC are excelled in predicting the occurrence of Heart failure through the given 13 features in this dataset, with proper feature preprocessing (f1-score = 100%). However, we need more data to verify the model prediction & train the model to avoid overfitting.
 
 * *Date Created*: 09 June 2022
