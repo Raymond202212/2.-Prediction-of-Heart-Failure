@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Prediction of The Mortality from Heart Failure
+# # Prediction of The Occurrence of Heart Failure
 
 # # Aim
-# This project aims to predict the ---from heart failure and extract its most important associative factors through multiple classificational algorithms.
+# This project aims to predict the occurrence of heart failure and extract its most important associative factors through multiple classificational algorithms.
 # 
 
 # # Data Import and Exploration
