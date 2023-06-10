@@ -18,5 +18,5 @@ This code and the corresponding data analysis framework is under the instruction
 
 ## Acknowledgments
 
-* I am grateful to Dr. Thomas Trappenberg for the instruction of ML course and the bootcamp for teaching & providing the framework.
+* I am grateful to Dr. Thomas Trappenberg for the instruction of ML course and the bootcamp for teaching & providing the framework. Iam also thankful to the knowledge sharing within the linkedin community.
 
